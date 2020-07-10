@@ -20,8 +20,7 @@ Work Experience
 
 Jan 2016 - Nov 2018
 :   **[Company Name](https://companyname.com), Position, title**
-
-    - what you did there item 1
+- what you did there item 1
     - what you did there item 2
     - what you did there item 3
     - what you did there item 4
